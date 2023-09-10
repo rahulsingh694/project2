@@ -1,3 +1,3 @@
 # New Project
 
-Thus project is created from local sysytem.
+This project is created from local sysytem.
